@@ -1,100 +1,217 @@
-# Instant+ - A Smarter Way to Save
+# 📱 Instant+ — A Smarter Way to Save
 
-**Project for CSCI 4100U - Mobile Devices**
+<div align="center">
 
-## Overview
+**A mobile savings application that helps users build better financial habits through goal-based LockBoxes, recurring deposits, and progress tracking.**
 
-**Instant+** is a user-friendly savings app designed to help users achieve their financial goals through virtual "LockBoxes." With flexible savings durations, automated deposits, and real-time goal tracking, Instant+ makes saving intuitive, rewarding, and empowering. Users can create and manage LockBoxes, set financial goals, and track their progress with visual tools and reminders.
+[![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](YOUR_FIGMA_LINK)
 
-## Table of Contents
+</div>
 
-- [Features](#features)
-- [Requirements](#requirements)
-  - [Functional Requirements](#functional-requirements)
-  - [Non-functional Requirements](#non-functional-requirements)
-- [Evaluation](#evaluation)
-  - [Formative Assessment](#formative-assessment)
-  - [Summative Assessment](#summative-assessment)
-- [Team Members & Responsibilities](#team-members--responsibilities)
+<br>
 
-## Features
+<div align="center">
+  <img src="assets/instantplus-demo.gif" alt="Instant+ Demo" width="300">
+</div>
 
-1. **Flexible Savings Durations**  
-   Create virtual LockBoxes with customizable durations (1 week, 1 month, or 1 year) using dialog pickers. LockBox details are securely stored, allowing deposits during the lock period and enabling penalty-free withdrawals at the end.
+---
 
-2. **Goal Tracking & Notifications**  
-   Set savings goals and track progress with charts and notifications. Users receive reminders for upcoming milestones and lockbox unlock dates.
+## About The Project
 
-3. **Automated Recurring Deposits**  
-   Automate savings with weekly or monthly deposits. Snackbars confirm successful deposit scheduling and provide an option to undo.
+Managing savings goals can be difficult when progress is invisible and financial discipline is inconsistent.
 
-4. **Savings Visualizations**  
-   Interactive charts display the growth of savings over time, helping users monitor deposit patterns and progress towards goals.
+**Instant+** addresses this challenge by allowing users to create virtual savings "LockBoxes" with customizable durations, automated recurring deposits, and real-time progress tracking. The application provides visual insights into savings growth while encouraging users to stay committed to their financial goals.
 
-5. **Penalty-Free Withdrawals**  
-   Upon the completion of a LockBox term, users are notified that their funds are available for withdrawal without fees.
+Developed as a mobile application project for CSCI 4100U, Instant+ focuses on creating a simple, engaging, and intuitive savings experience.
 
-6. **User-friendly Management**  
-   Snackbars provide feedback on actions like deposit creation and lockbox setup, ensuring users are informed and in control.
+---
 
-## Requirements
+## Key Features
 
-### Functional Requirements
-- **Multiple Screens and Navigation**: Smooth navigation between different screens for lockbox management.
-- **Dialogs and Pickers**: Dialogs for selecting LockBox terms and deposit options.
-- **Notifications**: Reminders and updates for savings milestones and unlock dates.
-- **Snackbars**: Immediate feedback for deposit actions with an undo option.
-- **Local and Cloud Storage**: Securely store savings and goal data locally.
-- **HTTP Requests**: API requests for retrieving and updating savings information.
+### 🔒 LockBox Savings System
 
-### Non-functional Requirements
-- **Work Quality**: Evaluation of development effort and functionality.
-- **User Interface Design**: Usable, intuitive, and visually appealing UI.
-- **Code and Design Quality**: Clear, maintainable code with adherence to best practices.
+Create virtual LockBoxes with customizable savings durations:
 
-## Evaluation
+- 1 Week
+- 1 Month
+- 1 Year
 
-### Formative Assessment
-- **Timeline**: Week 9 code commit; marking in Week 10.
-- **Purpose**: Early feedback on code quality, UI, and functional features for improvement.
-- **Weight**: 15% of the final grade.
-- **Criteria**: Functional requirements (12 marks) and non-functional requirements (3 marks).
+Funds remain dedicated to a savings goal until the LockBox reaches maturity.
 
-### Summative Assessment
-- **Timeline**: Final marking at the course end.
-- **Requirements**: Fully developed app with a ~5-minute individual demo video.
-- **Weight**: 30% of the final grade.
-  - **Mobile Application**: 25% (group grade)
-  - **Individual Demo**: 5%
-- **Criteria**: Functional requirements (5 marks) and non-functional requirements (20 marks).
+### 💰 Automated Recurring Deposits
 
-## Team Members & Responsibilities
+- Weekly deposits
+- Monthly deposits
+- Easy modification and cancellation
 
-- **Jason Badwal**:
-  - User sign-in/sign-up
-  - Firebase database
-  - Firebase Authentication
-  - Notifications
-- **Arujan Srimohan**:
-  - Developed data classes
-  - UI and back-end integration with data classes
-  - Metrics Page
-  - Data Visualization   
-- **Elaine Nankanja**:
-  - Firebase setup for user auth
-  - User profile storage
-  - Reset password
-  - UI
-  - Google sign-in 
-- **Abdul Rahim Mohsin**:
-  - Designed mockup layout
-  - Developed UI layout for modern look
-  - Smooth navigation between screens
-  - Snack bars
-  - Intuitive UI integrations
-  - Implemented currency API on homepage
-- **Rania Rejdal**:
-  - Collaborated on mockup design
-  - Basic page setup
-  - Data classes development
-  - UI and data classes integration
+### 📈 Savings Analytics
+
+- Goal completion percentage
+- Savings growth over time
+- Deposit history insights
+
+### 🔔 Smart Notifications
+
+Receive reminders for:
+
+- Upcoming deposits
+- Goal milestones
+- LockBox maturity dates
+
+### 🎯 Goal Tracking
+
+Set personalized financial goals and monitor progress through intuitive dashboards and visual indicators.
+
+---
+
+## Screenshots
+
+| Home Screen | LockBox Details | Analytics |
+|------------|------------|------------|
+| ![](assets/home.png) | ![](assets/lockbox.png) | ![](assets/analytics.png) |
+
+---
+
+## Built With
+
+### Mobile Development
+
+- Java
+- Android Studio
+- Android SDK
+- Material Design
+
+### Backend & Services
+
+- Firebase Authentication
+- Firebase Firestore
+
+### APIs
+
+- Currency Exchange API
+
+### Data Visualization
+
+- MPAndroidChart
+
+---
+
+## My Contributions
+
+As part of a five-member development team, I contributed to:
+
+- UI/UX mockup design collaboration
+- Core application page setup
+- Savings data model development
+- Integration between UI components and data models
+- General application architecture support
+
+---
+
+## Installation
+
+### Prerequisites
+
+- Android Studio
+- Android SDK
+- Firebase Project
+
+### Setup
+
+```bash
+git clone https://github.com/yourusername/instant-plus.git
+```
+
+Open the project in Android Studio and run the application on an emulator or physical device.
+
+---
+
+## Future Improvements
+
+- Bank account integration
+- AI-powered savings recommendations
+- Shared family savings goals
+- Savings streak rewards system
+- Dark mode support
+- Cross-platform support
+
+---
+
+## Team
+
+| Member | Contributions |
+|----------|-------------|
+| Jason Badwal | Authentication, Firebase, Notifications |
+| Arujan Srimohan | Data Models, Analytics, Visualizations |
+| Elaine Nankanja | User Profiles, Authentication Features |
+| Abdul Rahim Mohsin | UI Design, Navigation, Currency API |
+| Rania Rejdal | UI Mockups, Data Models, UI Integration |
+
+---
+
+## Contributors
+
+<div align="center">
+
+<a href="https://github.com/JasonB2004">
+  <img src="https://github.com/JasonB2004.png" width="80px;" alt=""/>
+</a>
+<a href="https://github.com/Arujan619">
+  <img src="https://github.com/Arujan619.png" width="80px;" alt=""/>
+</a>
+<a href="https://github.com/elainey188">
+  <img src="https://github.com/elainey188.png" width="80px;" alt=""/>
+</a>
+<a href="https://github.com/ZephyrA1">
+  <img src="https://github.com/ZephyrA1.png" width="80px;" alt=""/>
+</a>
+<a href="https://github.com/ranrej">
+  <img src="https://github.com/ranrej.png" width="80px;" alt=""/>
+</a>
+
+<br /><br />
+
+<b>Jason Badwal</b> •
+<b>Arujan Srimohan</b> •
+<b>Elaine Nankanja</b> •
+<b>Abdul Rahim Mohsin</b> •
+<b>Rania Rejdal</b>
+
+</div>
+
+---
+
+## Figma Design
+
+🎨 **Design Prototype:**
+
+[View the Figma Project](YOUR_FIGMA_LINK)
+
+---
+
+## Demo
+
+🎥 **Application Walkthrough:**
+
+[Watch Demo](YOUR_VIDEO_LINK)
+
+---
+
+## Repository Structure
+
+```text
+app/
+├── activities/
+├── fragments/
+├── adapters/
+├── models/
+├── services/
+├── utils/
+└── resources/
+```
+
+---
+
+## License
+
+This project was developed for educational purposes as part of CSCI 4100U.
