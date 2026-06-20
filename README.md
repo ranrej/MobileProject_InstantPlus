@@ -141,8 +141,6 @@ Open the project in Android Studio and run the application on an emulator or phy
 
 <div align="center">
 
-### Core Team
-
 <table>
   <tr>
     <td align="center" width="200">
@@ -226,15 +224,34 @@ Open the project in Android Studio and run the application on an emulator or phy
 ## Repository Structure
 
 ```text
-app/
-├── activities/
-├── fragments/
-├── adapters/
-├── models/
-├── services/
-├── utils/
-└── resources/
-```
+MobileProject/
+├── android/
+├── ios/
+├── assets/
+│   ├── Images/
+│   ├── backgrounds/
+│   ├── icons/
+│   └── temporary/
+├── lib/
+│   ├── Authentication/
+│   ├── Classes/
+│   ├── HomePage/
+│   ├── LandingPage/
+│   ├── MainScreen/
+│   ├── MetricsPage/
+│   ├── Notifications/
+│   ├── OnboardingPages/
+│   ├── ProfilePage/
+│   ├── ResetPasswordPage/
+│   ├── SigninPage/
+│   ├── SignupPage/
+│   ├── WalletPage/
+│   ├── dbHelper.dart
+│   ├── firebase_options.dart
+│   └── main.dart
+├── test/
+├── pubspec.yaml
+└── firebase.json
 
 ---
 
