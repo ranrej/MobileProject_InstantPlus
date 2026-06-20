@@ -156,7 +156,7 @@ Open the project in Android Studio and run the application on an emulator or phy
       Notifications
     </td>
 
-    <td align="center" width="200">
+  <td align="center" width="200">
       <a href="https://github.com/Arujan619">
         <img src="https://github.com/Arujan619.png" width="80px" style="border-radius:50%;" /><br>
         <b>Arujan Srimohan</b>
@@ -167,7 +167,7 @@ Open the project in Android Studio and run the application on an emulator or phy
       Visualizations
     </td>
 
-    <td align="center" width="200">
+  <td align="center" width="200">
       <a href="https://github.com/elainey188">
         <img src="https://github.com/elainey188.png" width="80px" style="border-radius:50%;" /><br>
         <b>Elaine Nankanja</b>
@@ -190,7 +190,7 @@ Open the project in Android Studio and run the application on an emulator or phy
       Currency API
     </td>
 
-    <td align="center" width="200">
+  <td align="center" width="200">
       <a href="https://github.com/ranrej">
         <img src="https://github.com/ranrej.png" width="80px" style="border-radius:50%;" /><br>
         <b>Rania Rejdal</b>
