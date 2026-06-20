@@ -4,7 +4,7 @@
 
 **A mobile savings application that helps users build better financial habits through goal-based LockBoxes, recurring deposits, and progress tracking.**
 
-[![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](YOUR_FIGMA_LINK)
+[![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/KXhlbENeWPezT9ehCQGmeb/Instant-?node-id=0-1&t=AFvQODKEjW7AXU6Z-1)
 
 </div>
 
@@ -119,7 +119,7 @@ As part of a five-member development team, I contributed to:
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/instant-plus.git
+git clone https://github.com/ranrej/MobileProject_InstantPlus.git
 ```
 
 Open the project in Android Studio and run the application on an emulator or physical device.
@@ -137,45 +137,71 @@ Open the project in Android Studio and run the application on an emulator or phy
 
 ---
 
-## Team
-
-| Member | Contributions |
-|----------|-------------|
-| Jason Badwal | Authentication, Firebase, Notifications |
-| Arujan Srimohan | Data Models, Analytics, Visualizations |
-| Elaine Nankanja | User Profiles, Authentication Features |
-| Abdul Rahim Mohsin | UI Design, Navigation, Currency API |
-| Rania Rejdal | UI Mockups, Data Models, UI Integration |
-
----
-
-## Contributors
+## Team & Contributors
 
 <div align="center">
 
-<a href="https://github.com/JasonB2004">
-  <img src="https://github.com/JasonB2004.png" width="80px;" alt=""/>
-</a>
-<a href="https://github.com/Arujan619">
-  <img src="https://github.com/Arujan619.png" width="80px;" alt=""/>
-</a>
-<a href="https://github.com/elainey188">
-  <img src="https://github.com/elainey188.png" width="80px;" alt=""/>
-</a>
-<a href="https://github.com/ZephyrA1">
-  <img src="https://github.com/ZephyrA1.png" width="80px;" alt=""/>
-</a>
-<a href="https://github.com/ranrej">
-  <img src="https://github.com/ranrej.png" width="80px;" alt=""/>
-</a>
+### Core Team
 
-<br /><br />
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JasonB2004">
+        <img src="https://github.com/JasonB2004.png" width="80px;" style="border-radius:50%;" /><br/>
+        <b>Jason Badwal</b>
+      </a>
+      <br/>
+      Authentication<br/>
+      Firebase<br/>
+      Notifications
+    </td>
 
-<b>Jason Badwal</b> •
-<b>Arujan Srimohan</b> •
-<b>Elaine Nankanja</b> •
-<b>Abdul Rahim Mohsin</b> •
-<b>Rania Rejdal</b>
+    <td align="center">
+      <a href="https://github.com/Arujan619">
+        <img src="https://github.com/Arujan619.png" width="80px;" style="border-radius:50%;" /><br/>
+        <b>Arujan Srimohan</b>
+      </a>
+      <br/>
+      Data Models<br/>
+      Analytics<br/>
+      Visualizations
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/elainey188">
+        <img src="https://github.com/elainey188.png" width="80px;" style="border-radius:50%;" /><br/>
+        <b>Elaine Nankanja</b>
+      </a>
+      <br/>
+      User Profiles<br/>
+      Authentication Features
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ZephyrA1">
+        <img src="https://github.com/ZephyrA1.png" width="80px;" style="border-radius:50%;" /><br/>
+        <b>Abdul Rahim Mohsin</b>
+      </a>
+      <br/>
+      UI Design<br/>
+      Navigation<br/>
+      Currency API
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/ranrej">
+        <img src="https://github.com/ranrej.png" width="80px;" style="border-radius:50%;" /><br/>
+        <b>Rania Rejdal</b>
+      </a>
+      <br/>
+      UI Mockups<br/>
+      Data Models<br/>
+      UI Integration
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -185,7 +211,7 @@ Open the project in Android Studio and run the application on an emulator or phy
 
 🎨 **Design Prototype:**
 
-[View the Figma Project](YOUR_FIGMA_LINK)
+[View the Figma Project](https://www.figma.com/design/KXhlbENeWPezT9ehCQGmeb/Instant-?node-id=0-1&t=AFvQODKEjW7AXU6Z-1)
 
 ---
 
