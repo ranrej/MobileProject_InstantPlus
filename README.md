@@ -145,59 +145,59 @@ Open the project in Android Studio and run the application on an emulator or phy
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="200">
       <a href="https://github.com/JasonB2004">
-        <img src="https://github.com/JasonB2004.png" width="80px;" style="border-radius:50%;" /><br/>
+        <img src="https://github.com/JasonB2004.png" width="80px" style="border-radius:50%;" /><br>
         <b>Jason Badwal</b>
       </a>
-      <br/>
-      Authentication<br/>
-      Firebase<br/>
+      <br><br>
+      Authentication<br>
+      Firebase<br>
       Notifications
     </td>
 
-    <td align="center">
+    <td align="center" width="200">
       <a href="https://github.com/Arujan619">
-        <img src="https://github.com/Arujan619.png" width="80px;" style="border-radius:50%;" /><br/>
+        <img src="https://github.com/Arujan619.png" width="80px" style="border-radius:50%;" /><br>
         <b>Arujan Srimohan</b>
       </a>
-      <br/>
-      Data Models<br/>
-      Analytics<br/>
+      <br><br>
+      Data Models<br>
+      Analytics<br>
       Visualizations
     </td>
 
-    <td align="center">
+    <td align="center" width="200">
       <a href="https://github.com/elainey188">
-        <img src="https://github.com/elainey188.png" width="80px;" style="border-radius:50%;" /><br/>
+        <img src="https://github.com/elainey188.png" width="80px" style="border-radius:50%;" /><br>
         <b>Elaine Nankanja</b>
       </a>
-      <br/>
-      User Profiles<br/>
+      <br><br>
+      User Profiles<br>
       Authentication Features
     </td>
   </tr>
 
   <tr>
-    <td align="center">
+    <td align="center" width="200">
       <a href="https://github.com/ZephyrA1">
-        <img src="https://github.com/ZephyrA1.png" width="80px;" style="border-radius:50%;" /><br/>
+        <img src="https://github.com/ZephyrA1.png" width="80px" style="border-radius:50%;" /><br>
         <b>Abdul Rahim Mohsin</b>
       </a>
-      <br/>
-      UI Design<br/>
-      Navigation<br/>
+      <br><br>
+      UI Design<br>
+      Navigation<br>
       Currency API
     </td>
 
-    <td align="center">
+    <td align="center" width="200">
       <a href="https://github.com/ranrej">
-        <img src="https://github.com/ranrej.png" width="80px;" style="border-radius:50%;" /><br/>
+        <img src="https://github.com/ranrej.png" width="80px" style="border-radius:50%;" /><br>
         <b>Rania Rejdal</b>
       </a>
-      <br/>
-      UI Mockups<br/>
-      Data Models<br/>
+      <br><br>
+      UI Mockups<br>
+      Data Models<br>
       UI Integration
     </td>
   </tr>
