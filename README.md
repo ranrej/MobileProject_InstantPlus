@@ -213,14 +213,6 @@ Open the project in Android Studio and run the application on an emulator or phy
 
 ---
 
-## Demo
-
-🎥 **Application Walkthrough:**
-
-[Watch Demo](YOUR_VIDEO_LINK)
-
----
-
 ## Repository Structure
 
 ```text
