@@ -244,6 +244,7 @@ MobileProject/
 ├── test/
 ├── pubspec.yaml
 └── firebase.json
+```
 
 ---
 
