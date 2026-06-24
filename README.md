@@ -68,7 +68,7 @@ Set personalized financial goals and monitor progress through intuitive dashboar
 
 | Home Screen | LockBox Details | Analytics |
 |------------|------------|------------|
-| ![](assets/home.png) | ![](assets/lockbox.png) | ![](assets/analytics.png) |
+| ![](assets/home.png) | ![](assets/vault.png) | ![](assets/metrics.png) |
 
 ---
 
